@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daily-vibes/static/css/main.5a2ec455.css",
+    "main.js": "/daily-vibes/static/js/main.0f202b34.js",
+    "static/js/453.b5158bd2.chunk.js": "/daily-vibes/static/js/453.b5158bd2.chunk.js",
+    "index.html": "/daily-vibes/index.html",
+    "main.5a2ec455.css.map": "/daily-vibes/static/css/main.5a2ec455.css.map",
+    "main.0f202b34.js.map": "/daily-vibes/static/js/main.0f202b34.js.map",
+    "453.b5158bd2.chunk.js.map": "/daily-vibes/static/js/453.b5158bd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a2ec455.css",
+    "static/js/main.0f202b34.js"
+  ]
+}
