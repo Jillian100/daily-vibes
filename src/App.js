@@ -172,7 +172,7 @@ function App() {
       <main className="app-main">
         {/* 心情選擇表單 */}
         <section className="mood-form-section">
-          <h2>今天的心情如何？</h2>
+          <h2>寶貝，今天的心情如何？</h2>
           <form onSubmit={handleSubmit} className="mood-form">
             <div className="mood-selector">
               {moodOptions.map((mood) => (
